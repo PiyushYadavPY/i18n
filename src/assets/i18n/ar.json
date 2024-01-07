@@ -1,0 +1,18 @@
+
+{
+    "HOME": {
+      "TITLE": "ترجمة النص باستخدام i18n في الزاوي",
+      "SELECT": "تغيير اللغة",
+       "PLACEHOLDER": "يبحث"
+    },
+      "HELLO":{
+        "MESSAGE": "مرحبًا بك في تطبيقي Angular!<br><strong>تطبيق التسوق الذي يمكن استخدامه بلغات متعددة</strong>"
+      },
+      "PRODUCT":{
+        "NAME" : "اسم",
+        "DESCRIPTION" : "وصف",
+        "PRICE" : "سعر",
+        "ADD_TO_CART" : "أضف إلى السلة"
+      }
+  }
+  

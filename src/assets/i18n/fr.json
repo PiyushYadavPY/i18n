@@ -1,0 +1,18 @@
+
+  {
+    "HOME": {
+      "TITLE": "Traduire du texte en utilisant i18n dans Angular",
+      "SELECT": "Changer la langue",
+      "PLACEHOLDER": "Recherche"
+    },
+    "HELLO":{
+      "MESSAGE": "Bienvenue sur mon application Angular!<br><strong>L'application de shopping utilisable en plusieurs langues</strong>"
+    },
+    "PRODUCT":{
+      "NAME" : "Nom",
+      "DESCRIPTION" : "Description",
+      "PRICE" : "Prix",
+      "ADD_TO_CART" : "Ajouter au panier"
+    }
+  }
+  

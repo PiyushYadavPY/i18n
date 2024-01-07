@@ -1,0 +1,18 @@
+{
+    "HOME": {
+      "TITLE": "Übersetzen von Text mit i18n in Angular",
+      "SELECT": "Sprache ändern",
+      "PLACEHOLDER": "Suchen"
+    },
+
+    "HELLO":{
+      "MESSAGE": "Willkommen zu meiner Angular-Anwendung!<br><strong>Die Shopping-App, die mehrsprachig genutzt werden kann</strong>"
+    },
+    "PRODUCT":{
+      "NAME" : "Name",
+      "DESCRIPTION" : "Beschreibung",
+      "PRICE" : "Preis",
+      "ADD_TO_CART" : "In den Warenkorb legen"
+    }
+  }
+  

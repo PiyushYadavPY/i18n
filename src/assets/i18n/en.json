@@ -1,0 +1,18 @@
+{
+    "HOME": {
+      "TITLE": "Translating text using i18n in Angular",
+      "SELECT": "Change language",
+      "PLACEHOLDER": "Search"
+    },
+
+    "HELLO":{
+      "MESSAGE": "Welcome to my Angular application!<br><strong>The shopping app which can be used in multiple language</strong>"
+    },
+    "PRODUCT":{
+      "NAME" : "Name",
+      "DESCRIPTION" : "Description",
+      "PRICE" : "Price",
+      "ADD_TO_CART" : "Add to cart"
+    }
+  }
+  
